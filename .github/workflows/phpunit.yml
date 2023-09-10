@@ -1,11 +1,13 @@
 on:
   push:
     branches:
-      - v5-develop
-      - v5-stable
+      - develop-alert
+      - develop-bug-fix
+      - develop-front-end
+      - master
   pull_request:
     branches:
-      - v5-develop
+      - master
 
 name: phpunit
 jobs:
