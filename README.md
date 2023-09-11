@@ -1,3 +1,5 @@
+![image](https://github.com/Jiawen0101/invoiceninja/assets/77450637/6eb4e557-6975-4f0a-b6b0-8057496f47e1)
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/hillelcoren/invoice-ninja/master/public/images/round_logo.png" alt="Sublime's custom image"/>
 </p>
